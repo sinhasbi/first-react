@@ -6,9 +6,9 @@ npm i
 npm start
 
 # 檔案
-app.js 為主要頁面
-app.css 主畫面之CSS
-data.js 為資料(子元件)
+app.js 為主要頁面  
+app.css 主畫面之CSS  
+data.js 為資料(子元件)  
 
 # Step 1: 獲取 API 資料
 點擊 Update 按鈕，應用程式會從 API 獲取最新的資料並顯示在頁面上。
